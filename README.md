@@ -1,5 +1,5 @@
 # Code Repository
-This repository contains our the latest version of our code:
+This repository contains the latest version of our code:
 
 __watson-app__: contains our frontend application, made using VueJs and Framework7 (JavaScript).
 
@@ -54,7 +54,7 @@ If you want to try for yourself, follow these instructions:
 4. Navigate to the 'Capture' tab
 5. Upload one of the paintings below using the 'Add photo' button.
 6. Optionally add a description.
-7. Click 'Save' to save the post
+7. Click 'Save' to save the post.
 8. Navigate to 'Posts' and hit the 'Refresh' button.
 9. Note that the name of the recognized painting is added as a hashtag.
 10. Click on 'Comments' of the new post to see the comments (facts).
