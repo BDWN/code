@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: eu-gb.mybluemix.net
+  name: Watson Service
+  host: watson-service
+  disk_quota: 1024M
+  buildpack: python_buildpack

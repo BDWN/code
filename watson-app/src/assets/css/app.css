@@ -1,0 +1,196 @@
+.hide {
+    display: none;
+}
+
+.brown-button {
+    background-color: #3c3c3c !important;
+}
+
+.hashtag {
+    color: #aa945f;
+}
+
+.avatar {
+    max-height: 200px;
+}
+
+.flex-row {
+    display: flex !important;
+    flex-direction: row;
+}
+
+.flex-row .flex-rest-width {
+    flex: 1;
+    width: initial;
+}
+
+.tabbar-fixed .page-content, .tabbar-through .page-content, .toolbar-fixed .page-content, .toolbar-through .page-content {
+    padding-bottom: 50px;
+}
+
+.photo-browser .navbar .center, .photo-browser .navbar .icon {
+    display: none;
+}
+
+.tabbar i.icon {
+    font-size: 18px;
+    line-height: 34px;
+}
+
+.card {
+    background-color: white;
+    margin: 15px 0;
+    border-top: 1px solid #dadada;
+    border-bottom: 1px solid #dadada; 
+    box-shadow: none;
+}
+
+.card-header {
+      padding: 10px;
+      padding-bottom: 5px;
+      justify-content: inherit;
+      align-items: inherit;
+}
+
+.card-header:after {
+    height: 0;
+}
+
+.card .avatar, .avatar > img {
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    margin-right: 9px;
+}
+
+.card .user {
+    justify-content: center;
+}
+
+.card .user .time {
+    font-size: 12px;
+    color: #8999a5;
+    margin-top: 3px;
+}
+
+.card .user .name {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.card .card-content{
+    padding: 5px 10px;
+}
+
+.card .card-content .image {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.card .card-content .image > img {
+    max-width: 400px;
+    max-height: 80%;
+}
+
+.card .card-footer{
+    min-height: 35px;
+    padding: 0;
+}
+
+.card .card-footer a.link {
+    line-height: 35px;
+    height: 35px;
+}
+
+.card .card-footer .tool {
+    justify-content: center;
+}
+
+.card .card-footer .tool.tool-border {
+    border-right: 1px solid #e1e1e1;
+}
+
+.card .card-footer .tool > span {
+    color: #6D6D78;
+    vertical-align: middle;
+}
+
+.card .card-footer .tool .icofont {
+    font-size: 16px;
+}
+
+.card .card-footer .tool .text {
+    font-size: 13px;
+}
+
+.editor-container > textarea {
+      width: 100%;
+      height: 150px;
+      font-size: 15px;
+      border: none;
+      color: #444;
+      margin: 0;
+      padding: 5px;
+      resize: none;
+      box-sizing: border-box;
+}
+
+.editor-container .tools {
+      width: 100%;
+      height: 40px;
+      background-color: #f9f9f9;
+      border-bottom: 1px solid #dadada;
+      border-top: 1px solid #dadada;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      margin-top: -5px;
+}
+
+.editor-container .tools .tool {
+    width: 50px;
+    height: 100%;
+    text-align: center;
+    line-height: 40px;
+    border-right: 1px solid #e1e1e1;
+}
+
+.editor-container .tools .tool > span {
+    color: #6D6D78;
+}
+
+.navbar-inner {
+    background-color: #aa945f;
+    color: #fff;
+}
+
+.navbar-inner .link {
+    color: #fff;
+}
+
+.navbar:after {
+    background-color: #6D6D78;
+}
+
+.toolbar-inner a.active {
+    color: #aa945f;
+}
+
+.account-view .item-media .icofont {
+    color: #929292;
+}
+
+.preview-container .picture-preview {
+    background-color: #efeff4 !important;
+}
+
+#loadingPopup {
+    background-color: transparent;
+}
+
+#loadingPopup .preloader {
+    position: absolute;
+    left: 40%;
+    top: 45%;
+    right: 45%;
+}
